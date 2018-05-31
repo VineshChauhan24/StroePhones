@@ -14,5 +14,8 @@ This Code demonstrates how to synchronize the local Realm Database with the remo
  
 ![store phones](https://user-images.githubusercontent.com/32569345/40810256-f7a08602-6535-11e8-8164-fb3b449c00de.gif)
 
-Inline `code` has `back-ticks around` it.
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
 
