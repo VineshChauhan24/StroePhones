@@ -59,7 +59,7 @@ dependencies {
 
 # MyService (Synchronization)
 
-```android, java
+```android
 /*
  * Copyright 2018 Ahmed Mahmoud.
  *
