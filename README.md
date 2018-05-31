@@ -55,7 +55,7 @@ dependencies {
 
 ## build.gradle (app)
 
-```android
+```gradle
 dependencies {
     implementation 'io.realm:android-adapters:2.0.0'
     apply plugin: 'realm-android'
