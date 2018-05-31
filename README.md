@@ -57,3 +57,45 @@ dependencies {
     implementation files('libs/volley.jar')
 ```
 
+```xml
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/rootLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <!--
+/**
+ * Created by Dev Ahmed Mahmoud on 25/5/2018
+ * email : dev.ahmed.m@gmail.com
+ * phone : +9700597503338
+ */
+-->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <android.support.v4.widget.SwipeRefreshLayout
+            android:id="@+id/SwipeRefresh"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <GridView xmlns:android="http://schemas.android.com/apk/res/android"
+                android:id="@+id/items"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:numColumns="2"
+                android:padding="5dp"
+                android:stretchMode="columnWidth" />
+        </android.support.v4.widget.SwipeRefreshLayout>
+    </LinearLayout>
+
+</android.support.design.widget.CoordinatorLayout>
+```
