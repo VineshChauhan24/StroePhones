@@ -37,7 +37,7 @@ This Code demonstrates how to synchronize the local Realm Database with the remo
 | date_modified | Date          | get(), set()      |
 
 
-#let's go to start in code
+# let's go to start in code
 
 ```android
 dependencies {
