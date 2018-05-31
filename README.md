@@ -10,5 +10,7 @@ This Code demonstrates how to synchronize the local Realm Database with the remo
  ![cover](https://user-images.githubusercontent.com/32569345/40809888-ade9d7e4-6534-11e8-8eca-fd7fd01487c3.png)
  
  
+ App Screenshots, aka italics, with *asterisks* or _underscores_.
+ 
 ![store phones](https://user-images.githubusercontent.com/32569345/40810256-f7a08602-6535-11e8-8164-fb3b449c00de.gif)
 
