@@ -57,6 +57,8 @@ dependencies {
     implementation files('libs/volley.jar')
 ```
 
+## activity_main
+
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
