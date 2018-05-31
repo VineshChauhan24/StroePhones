@@ -479,4 +479,10 @@ public class MyService extends Service {
 
 
 ```
+
+# Feedback
+Please let us know what you would like improved, so we can fix it!
+
+# Future work (Security)
+Encrypt urls on web and on app.
  
