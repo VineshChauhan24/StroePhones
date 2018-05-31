@@ -18,7 +18,7 @@ This Code demonstrates how to synchronize the local Realm Database with the remo
  
 ![store phones](https://user-images.githubusercontent.com/32569345/40810256-f7a08602-6535-11e8-8164-fb3b449c00de.gif)
 
-# Database (Mysql)
+# Database (Mysql)..... sql
 
 | Names         | Type          | Extra |
 | ------------- |:-------------:| -----:|
@@ -29,7 +29,7 @@ This Code demonstrates how to synchronize the local Realm Database with the remo
 | image         | varchar(250)  |                      |
 | date_modified | datetime      |                      |
 
-# Database (Realm)
+# Database (Realm)...... nosql
 
 | Names         | Type          | Extra |
 | ------------- |:-------------:| -----:|
