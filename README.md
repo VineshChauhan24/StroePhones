@@ -13,13 +13,16 @@ This Code demonstrates how to synchronize the local Realm Database with the remo
  
 ![store phones](https://user-images.githubusercontent.com/32569345/40810256-f7a08602-6535-11e8-8164-fb3b449c00de.gif)
 
-# Database.....
+# Database (Mysql)
 
-| Tables        | Are           | Cool  |
+| Names         | Type          | Extra |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| id            | int(11)       | AUTO_INCREMENT       |
+| quantity      | int(11)       |                      |
+| price         | float         |                      |
+| type          | varchar(50)   |                      |
+| image         | varchar(250)  |                      |
+| date_modified | datetime      |                      |
 
 ```javascript
 var s = "JavaScript syntax highlighting";
