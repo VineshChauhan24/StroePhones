@@ -24,6 +24,18 @@ This Code demonstrates how to synchronize the local Realm Database with the remo
 | image         | varchar(250)  |                      |
 | date_modified | datetime      |                      |
 
+# Database (Realm)
+
+| Names         | Type          | Extra |
+| ------------- |:-------------:| -----:|
+| id            | int           | get(), set()      |
+| quantity      | int           | get(), set()      |
+| price         | double        | get(), set()      |
+| type          | String        | get(), set()      |
+| imageName     | String        | get(), set()      |
+| image         | byte[]        | get(), set()      |
+| date_modified | Date          | get(), set()      |
+
 ```javascript
 var s = "JavaScript syntax highlighting";
 alert(s);
