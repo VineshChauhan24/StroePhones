@@ -44,7 +44,7 @@ This Code demonstrates how to synchronize the local Realm Database with the remo
 
 # let's go to start in code
 
-```android
+```java
 dependencies {
         classpath 'com.android.tools.build:gradle:3.1.2'
         classpath "io.realm:realm-gradle-plugin:5.1.0"
