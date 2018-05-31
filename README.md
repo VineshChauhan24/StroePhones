@@ -13,6 +13,4 @@ This Code demonstrates how to synchronize the local Realm Database with the remo
 
 [![How to Sync Realm and MySQL Database in Android Application on YouTube](http://img.youtube.com/vi/youtu.be/CMtVn_73jR8/0.jpg)](http://youtu.be/CMtVn_73jR8)
 
-<a href="http://youtu.be/CMtVn_73jR8
-" target="_blank"><img src="http://img.youtube.com/vi/youtu.be/CMtVn_73jR8/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+[How to Sync Realm and MySQL Database in Android Application on YouTube](https://youtu.be/CMtVn_73jR8)
