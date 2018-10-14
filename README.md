@@ -67,7 +67,7 @@ dependencies {
 
 ```java
 /*
- * Copyright 2018 Ahmed Mahmoud.
+ * Copyright 2018 Ahmed Qeshta.
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -125,7 +125,7 @@ import io.realm.Realm;
 import io.realm.RealmResults;
 
 /**
- * Created by Dev Ahmed Mahmoud on 25/5/2018
+ * Created by Dev Ahmed Qeshta on 25/5/2018
  * email : dev.ahmed.m@gmail.com
  * phone : +970597503338
  */
